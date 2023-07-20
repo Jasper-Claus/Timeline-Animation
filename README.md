@@ -1,4 +1,4 @@
-# Timeline-Animation
+# Timeline-with-Animation
 A small timeline with CSS animation is a web component that presents events in a vertical list. 
 The events are animated one by one, gradually appearing as the page loads. This creates an engaging and easily readable display of information.
 
